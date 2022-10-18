@@ -1,0 +1,22 @@
+*{
+    margin: auto;
+    padding: 5px;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    direction: rtl;
+border: 2px solid ;
+
+width: 500px;
+height: 500px;
+border-radius: 5px;
+
+
+}
+#asd {
+    background-color: green;
+
+
+
+}
